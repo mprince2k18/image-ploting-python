@@ -14,7 +14,7 @@
 
             plt.imshow(image_sample)
 
-            ![image](https://user-images.githubusercontent.com/43857625/134760211-a816ce2f-596e-4890-a04e-c0450f4eff20.png)
+![image](https://user-images.githubusercontent.com/43857625/134760211-a816ce2f-596e-4890-a04e-c0450f4eff20.png)
 
 
             pca = PCA(2)
@@ -31,4 +31,4 @@
             plt.xlabel('PC-1') , plt.ylabel('PC-2')
             plt.show()
 
-            ![image](https://user-images.githubusercontent.com/43857625/134760217-c41d9f52-ecd7-481b-b6e4-c337ca8528a8.png)
+![image](https://user-images.githubusercontent.com/43857625/134760217-c41d9f52-ecd7-481b-b6e4-c337ca8528a8.png)
